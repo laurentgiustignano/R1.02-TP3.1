@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Noto+Sans:wght@100..900&display=swap');
+
+body {
+    font-size: 30px;
+}
+
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+h2, p {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.images{
+    width: 200px;
+    height: 200px;
+    color: white;
+}
